@@ -35,7 +35,5 @@
 
   </samp>](url)
 </div>
-</details>
 
-<details>
   
